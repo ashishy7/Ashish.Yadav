@@ -17,24 +17,27 @@ export default function ProfessionalExpMain() {
     
     <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
       <ProfessionalExpCard
-        title="Application Development Analyst"
+        title="Software Development Analyst"
         description={
             <>
-               ● Designed and developed Java large-scale, distributed applications, services, and features that had a direct impact on the core business, leading to an increase of seller enrollments by 100k+ across 4 marketplaces.
+               ●  Developed large-scale, distributed Java applications with 10+ REST APIs using Spring Boot and DynamoDB as a part of on-premises to cloud API migration, significantly increasing seller enrollments by 100k+ across 4 marketplaces.
               <br />
-              ● Optimized flows with React reusable components, eliminating 70% of legacy code reusability.
+              ● Collaborated with a cross-functional team to create a web performance analytics tool, increasing efficiency by 21%..
               <br />
-              ● Boosted web app performance by Redux for state management, reducing page load time from 5 to 2sec.
+              ● Delivered advanced reporting and product ranking solutions, driving a remarkable 40% client business growth.
               <br />
-              ● Delivered advanced reporting and product ranking solutions, driving a 40% client business growth.
+              ● Built personalized UI (AngularJS) for seamless interaction with external CRM systems, enhancing data exchange by 20%.
               <br />
-              ● Enhanced web accessibility from 60% to 82% through robust solutions.
+              ● Mentored peers, reviewed code/designs, resolved 20+ production-level issues, and followed Agile methodology.
               <br />
-              ● Successfully led a esteemed team of 3 individuals in the migration of physical to cloud-based servers.
+              ● Successfully led a highly esteemed team of 3 individuals to cost-saving initiative by identifying unused AWS resources and
+establishing S3 bucket expiration policies, leading to an annual cost reduction exceeding $37,000 in AWS expenditures.
               <br />
               ● Reviewed code/designs, resolved 20+ production-level issues, and followed Agile methodology.
               <br />
               ● Integrated 10 vanilla JavaScript flow jobs within the ML platform, achieving a remarkable 90% increase in product query responses.
+              <br />
+              ● In charge of the Tech Review Process using Kanban (previously scrum) for the CRM platform, involving translating business requirements into technical requirements and design/development suggestions, initiating estimations.
             </>
           }
       />
@@ -42,15 +45,20 @@ export default function ProfessionalExpMain() {
         title="Associate Software Engineer"
         description={
             <>
-              ● Created 8 streamlined Jenkins jobs for CI/CD processes, resulting in a remarkable 3-hour time reduction per release.
+              ● Utilized React with Typescript to develop various UI components that efficiently handle labeling requests across various domains, including audio and text, driving a 15% increase in user engagement on the platform
               <br />
-              ● Built frontend using react.js for data ingestion process supporting data from SQL database, XML, and CSV files.
+              ● Integrated 10 vanilla JavaScript flow jobs into the ML platform, resulting in a 90% increase in product search queries.
               <br />
-              ● Achieved 80% test coverage using Enzyme and Jest for application tests, following Test-Driven Development (TDD).
+              ● Achieved 80% test coverage using Enzyme and Jest for application test cases, following Test-Driven Development (TDD).
               <br />
               ● Support Lead overlooking SDLC for new features and issues resolution together with strategy development for issue resolution and weekly status reporting to the customer. Performed deployment planning and release documentation.
               <br />
               ● Optimized production job deployment by developing a high-impact script, reducing time by 30% for deployment.
+              <br/>
+              ● Implemented 3+ CI/CD workflows with Jenkins and Git, automating and reducing release & deployments time by 30%.
+              <br />
+              ● Attained a 40% performance improvement in an internal application by implementing the MVC design pattern,
+utilizing the Dapper ORM, and incorporating caching techniques such as lazy loading, enhancing operational efficiency
               <br />
               ● Revitalized software development, transitioning search apps to monolithic codebases, resolving 50%+ environmental issues, and creating dynamic React web components for improved UI.
             </>
